@@ -1,5 +1,5 @@
 function connect() {
-  let socket = new WebSocket("ws://localhost:8080");
+  let socket = new WebSocket("ws://localhost:3000");
 
   socket.onopen = function () {
     let data = getData();
