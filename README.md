@@ -2,7 +2,7 @@
 
 Название говорящее. Запрос и ответ на базе WebSocket.
 
-### Инструкция
+### Последовательность действий
 
 >Для работы потребуется установить npm модули. 
 >Сервер работает на 3000 порту.
@@ -21,7 +21,7 @@
 
 The name speaks for itself. WebSocket based request and response.
 
-### Instruction
+### Sequence of actions
 
 >For that you need install npm modules. 
 >Server runs on port 3000.
